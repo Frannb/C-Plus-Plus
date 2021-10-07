@@ -1,0 +1,252 @@
+49518;"África";Ruanda
+51537;"África";Somália
+69543;"Ásia";Iêmen
+99237;"Ásia";Iraque
+102358;"Ásia";"Arábia Saudita"
+130758;"Ásia";Irã
+146669;Europa;Chipre
+149590;"África";Tanzânia
+163843;"Ásia";Síria
+174982;"Ásia";Armênia
+192950;"África";Quênia
+203312;"África";Congo-Kinshasa
+223816;"África";Djibuti
+226074;"África";Uganda
+239880;"África";"República Centro-Africana"
+241170;"África";"Ilhas Seychelles"
+248816;"Ásia";Jordânia
+272103;"Ásia";Líbano
+285570;"Ásia";Kuwait
+286963;"Ásia";Omã
+289688;"Ásia";Catar
+290291;"Ásia";Bahrain
+290557;"Ásia";"Emirados Árabes Unidos"
+294640;"Ásia";Israel
+298795;"Ásia";Turquia
+337996;"África";Etiópia
+338010;"África";Eritreia
+357994;"África";Egito
+366755;"África";Sudão
+390903;Europa;Grécia
+433561;"África";Burundi
+453733;Europa;Estônia
+458258;Europa;Letônia
+587116;"Ásia";Azerbaijão
+597427;Europa;Lituânia
+607072;Europa;"Svalbard e Jan Mayen"
+614540;"Ásia";Geórgia
+617790;Europa;"Moldova
+630336;Europa;Bielo-Rússia
+660013;Europa;Finlândia
+661882;Europa;Alanda
+690791;Europa;Ucrânia
+718075;Europa;Macedônia
+719819;Europa;Hungria
+732800;Europa;Bulgária
+783754;Europa;Albânia
+798544;Europa;Polônia
+798549;Europa;Romênia
+831053;Europa;Kosovo
+878675;"África";Zimbábue
+895949;"África";Zâmbia
+921929;"África";"Ilhas Comores"
+927384;"África";Malauí
+932692;"África";Lesoto
+933860;"África";Botsuana
+934292;"África";Maurício
+934841;"África";Suazilândia
+935317;"África";Reunião
+953987;"África";"África do Sul"
+1024031;"África";Mayotte
+1036973;"África";"República de Moçambique"
+1062947;"África";Madagascar
+1149361;"Ásia";Afeganistão
+1168579;"Ásia";Paquistão
+1210997;"Ásia";Bangladexe
+1218197;"Ásia";Turcomenistão
+1220409;"Ásia";Tajiquistão
+1227603;"Ásia";"Sri Lanka"
+1252634;"Ásia";Butão
+1269750;"Ásia";"Índia"
+1282028;"Ásia";Maldivas
+1282588;"Ásia";"Território Britânico do Oceano Índico"
+1282988;"Ásia";Nepal
+1327865;"Ásia";"Mianmar [Birmânia]"
+1512440;"Ásia";Uzbequistão
+1522867;"Ásia";Cazaquistão
+1527747;"Ásia";Quirguistão
+1546748;Antártica;"Territórios Franceses do Sul"
+1547314;Antártica;"Ilha Heard e Ilhas McDonald"
+1547376;"Ásia";"Ilhas Coco"
+1559582;Oceania;Palau
+1562822;"Ásia";Vietnã
+1605651;"Ásia";Tailândia
+1643084;"Ásia";Indonésia
+1655842;"Ásia";"República Popular Democrática do Laos"
+1668284;"Ásia";Taiwan
+1694008;"Ásia";Filipinas
+1733045;"Ásia";Malásia
+1814991;"Ásia";China
+1819730;"Ásia";"Hong Kong"
+1820814;"Ásia";Brunei
+1821275;"Ásia";"Região Administrativa Especial de Macau"
+1831722;"Ásia";Camboja
+1835841;"Ásia";"Coreia do Sul"
+1861060;"Ásia";Japão
+1873107;"Ásia";"Coreia do Norte"
+1880251;"Ásia";Cingapura
+1899402;Oceania;"Ilhas Cook"
+1966436;Oceania;"República Democrática de Timor-Leste"
+2017370;Europa;Rússia
+2029969;"Ásia";Mongólia
+2077456;Oceania;Austrália
+2078138;Oceania;"Ilhas Natal"
+2080185;Oceania;"Ilhas Marshall"
+2081918;Oceania;Micronésia
+2088628;Oceania;"Papua-Nova Guiné"
+2103350;Oceania;"Ilhas Salomão"
+2110297;Oceania;Tuvalu
+2110425;Oceania;Nauru
+2134431;Oceania;Vanuatu
+2139685;Oceania;"Nova Caledônia"
+2155115;Oceania;"Ilha Norfolk"
+2186224;Oceania;"Nova Zelândia"
+2205218;Oceania;Fiji
+2215636;"África";"Líbia Árabe Jamahiriya"
+2233387;"África";Camarões
+2245662;"África";Senegal
+2260494;"África";Congo
+2264397;Europa;Portugal
+2275384;"África";Libéria
+2287781;"África";"Costa do Marfim"
+2300660;"África";Gana
+2309096;"África";"Guiné Equatorial"
+2328926;"África";Nigéria
+2361809;"África";"Burkina Fasso"
+2363686;"África";Togo
+2372248;"África";"República da Guiné-Bissau"
+2378080;"África";Mauritânia
+2395170;"África";Benin
+2400553;"África";Gabão
+2403846;"África";"Serra Leoa"
+2410758;"África";"República Democrática de São Tomé e Príncipe"
+2411586;Europa;Gibraltar
+2413451;"África";Gâmbia
+2420477;"África";Guiné
+2434508;"África";Chade
+2440476;"África";Níger
+2453866;"África";Mali
+2461445;"África";"Saara Ocidental"
+2464461;"África";Tunísia
+2510769;Europa;Espanha
+2542007;"África";Marrocos
+2562770;Europa;Malta
+2589581;"África";Argélia
+2622320;Europa;"Ilhas Faroe"
+2623032;Europa;Dinamarca
+2629691;Europa;Islândia
+2635167;Europa;"Reino Unido"
+2658434;Europa;Suíça
+2661886;Europa;Suécia
+2750405;Europa;Holanda
+2782113;Europa;"Áustria"
+2802361;Europa;Bélgica
+2921044;Europa;Alemanha
+2960313;Europa;Luxemburgo
+2963597;Europa;Irlanda
+2993457;Europa;Mónaco
+3017382;Europa;França
+3041565;Europa;Andorra
+3042058;Europa;Lichtenstein
+3042142;Europa;Jersey
+3042225;Europa;"Ilha de Man"
+3042362;Europa;Guernsey
+3057568;Europa;Eslováquia
+3077311;Europa;Tchéquia
+3144096;Europa;Noruega
+3164670;Europa;Vaticano
+3168068;Europa;"San Marino"
+3175395;Europa;Itália
+3190538;Europa;Eslovênia
+3194884;Europa;Montenegro
+3202326;Europa;Croácia
+3277605;Europa;Bósnia-Herzegóvina
+3351879;"África";Angola
+3355338;"África";Namíbia
+3370751;"África";"Santa Helena"
+3371123;Antártica;"Ilha Bouvet"
+3374084;"América do Norte";Barbados
+3374766;"África";"Cabo Verde"
+3378535;"América do Sul";Guiana
+3381670;"América do Sul";"Guiana Francesa"
+3382998;"América do Sul";Suriname
+3424932;"América do Norte";"Saint Pierre e Miquelon"
+3425505;"América do Norte";Gronelândia
+3437598;"América do Sul";Paraguai
+3439705;"América do Sul";Uruguai
+3469034;"América do Sul";Brasil
+3474414;"América do Sul";"Ilhas Malvinas"
+3474415;Antártica;"Geórgia do Sul e Ilhas Sandwich do Sul"
+3489940;"América do Norte";Jamaica
+3508796;"América do Norte";"República Dominicana"
+3562981;"América do Norte";Cuba
+3570311;"América do Norte";Martinica
+3572887;"América do Norte";Bahamas
+3573345;"América do Norte";Bermudas
+3573511;"América do Norte";Anguilla
+3573591;"América do Norte";"Trindade e Tobago"
+3575174;"América do Norte";"São Cristóvão e Névis"
+3575830;"América do Norte";Dominica
+3576396;"América do Norte";"Antígua e Barbuda"
+3576468;"América do Norte";"Santa Lúcia"
+3576916;"América do Norte";"Ilhas Turks e Caicos"
+3577279;"América do Norte";Aruba
+3577718;"América do Norte";"Ilhas Virgens Britânicas"
+3577815;"América do Norte";"São Vincente e Granadinas"
+3578097;"América do Norte";Montserrat
+3578421;"América do Norte";"São Martinho"
+3578476;"América do Norte";"São Bartolomeu"
+3579143;"América do Norte";Guadalupe
+3580239;"América do Norte";Granada
+3580718;"América do Norte";"Ilhas Caiman"
+3582678;"América do Norte";Belize
+3585968;"América do Norte";"El Salvador"
+3595528;"América do Norte";Guatemala
+3608932;"América do Norte";Honduras
+3617476;"América do Norte";Nicarágua
+3624060;"América do Norte";"Costa Rica"
+3625428;"América do Sul";Venezuela
+3658394;"América do Sul";Equador
+3686110;"América do Sul";Colômbia
+3703430;"América do Norte";Panamá
+3723988;"América do Norte";Haiti
+3865483;"América do Sul";Argentina
+3895114;"América do Sul";Chile
+3923057;"América do Sul";Bolívia
+3932488;"América do Sul";Peru
+3996063;"América do Norte";México
+4030656;Oceania;"Polinésia Francesa"
+4030699;Oceania;Pitcairn
+4030945;Oceania;Quiribati
+4031074;Oceania;Tokelau
+4032283;Oceania;Tonga
+4034749;Oceania;"Ilhas Wallis e Futuna"
+4034894;Oceania;Samoa
+4036232;Oceania;Niue
+4041468;Oceania;"Ilhas Marianas do Norte"
+4043988;Oceania;Guam
+4566966;"América do Norte";"Porto Rico"
+4796775;"América do Norte";"Ilhas Virgens dos EUA"
+5854968;Oceania;"Ilhas Menores Distantes dos Estados Unidos"
+5880801;Oceania;"Samoa Americana"
+6251999;"América do Norte";Canadá
+6252001;"América do Norte";"Estados Unidos"
+6254930;"Ásia";"Territórios palestinos"
+6255147;"Ásia";
+6255148;Europa;
+6290252;Europa;Sérvia
+6697173;Antártica;Antártida
+7609695;"América do Norte";"São Martinho"
+7626836;"América do Norte";Curaçao
+7626844;"América do Norte";Bonaire
+7909807;"África";"Sudão do Sul"

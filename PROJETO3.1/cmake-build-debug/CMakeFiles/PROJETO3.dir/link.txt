@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/PROJETO3.dir/main.cpp.o CMakeFiles/PROJETO3.dir/Proj3.cpp.o  -o PROJETO3 

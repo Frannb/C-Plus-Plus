@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="PROJETO3" targetName="PROJETO3" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5033aacf-fdd9-4b69-9a3a-c85cf828db30" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1RfJSTAUmfrvQeu5wENGF7JBAYt" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documentos/PRGII/Prglib" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="PROJETO3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PROJETO3" TARGET_NAME="PROJETO3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PROJETO3" RUN_TARGET_NAME="PROJETO3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5033aacf-fdd9-4b69-9a3a-c85cf828db30" name="Default Changelist" comment="" />
+      <created>1570052216453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570052216453</updated>
+      <workItem from="1570052218271" duration="2978000" />
+      <workItem from="1570128185777" duration="2573000" />
+      <workItem from="1570550946062" duration="1150000" />
+      <workItem from="1570710486345" duration="6373000" />
+      <workItem from="1570716888395" duration="231000" />
+      <workItem from="1570727329221" duration="3753000" />
+      <workItem from="1570757475435" duration="1024000" />
+      <workItem from="1570806427346" duration="88000" />
+      <workItem from="1570807726582" duration="2872000" />
+      <workItem from="1570936283311" duration="746000" />
+      <workItem from="1570940572809" duration="24000" />
+      <workItem from="1570970160187" duration="815000" />
+      <workItem from="1570971007127" duration="1044000" />
+      <workItem from="1571675399001" duration="2000" />
+      <workItem from="1571706787903" duration="477000" />
+      <workItem from="1571760503277" duration="1334000" />
+      <workItem from="1571869329110" duration="2560000" />
+      <workItem from="1571937547568" duration="4370000" />
+      <workItem from="1571953332764" duration="836000" />
+      <workItem from="1572374690724" duration="6430000" />
+      <workItem from="1572541487773" duration="291000" />
+      <workItem from="1572542201211" duration="1143000" />
+      <workItem from="1572900510179" duration="1319000" />
+      <workItem from="1572979424990" duration="280000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

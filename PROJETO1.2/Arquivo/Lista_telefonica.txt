@@ -1,0 +1,13 @@
+Beltrano Martins;(48)98888-8888;z@gmail.com
+Fulano Silva;(48)99999-9699;y@gmail.com
+Xuxa Barcelos;(48)99999-4888;xb@gmail.com
+Amanda Barcelos;(48)99999-8788;manda@gmail.com
+Felipe Barcelos;(48)98811-1111;lipe@gmail.com
+Bruna Santos;(48)99995-4585;bru@gmail.com
+Agnella Almeida;(48)99992-4585;agne@gmail.com
+Darla Poncio;(48)99991-4585;darla@gmail.com
+Lucia Souza;(48)95998-8855;ls@gmail.com
+Xuxa Souza;(48)99999-8858;xuxa@gmail.com
+Juliana Barcelos;(48)99123-4585;juli@gmail.com
+Marcos Barcelos;(48)99999-8888;m@gmail.com
+

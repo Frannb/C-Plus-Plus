@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/maiusculo.dir/main.cpp.o  -o maiusculo 

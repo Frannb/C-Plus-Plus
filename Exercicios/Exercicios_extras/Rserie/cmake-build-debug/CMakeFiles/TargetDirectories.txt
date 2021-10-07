@@ -1,0 +1,3 @@
+/home/fran/CLionProjects/Exercicios_extras/Rserie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/fran/CLionProjects/Exercicios_extras/Rserie/cmake-build-debug/CMakeFiles/Rserie.dir
+/home/fran/CLionProjects/Exercicios_extras/Rserie/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,12 @@
+Família
+Juliana Barcelos; (48)99123-4585; juli@gmail.com
+Felipe Barcelos; (48)98811-1111; lipe@gmail.com
+Marcos Barcelos; (48)99999-8888; m@gmail.com
+Clara Barcelos;(48)99999-9994;Clara@gmail.com
+Fernanda Barcelos;(48)99999-9993;Fernanda@gmail.com
+-
+Outros
+Fulano Silva; (48)99999-9999; y@gmail.com
+Beltrano Martins; (48)98888-8888; z@gmail.com
+-
+

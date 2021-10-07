@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Projeto1.dir/main.cpp.o CMakeFiles/Projeto1.dir/uteis.cpp.o CMakeFiles/Projeto1.dir/proj3.cpp.o  -o Projeto1  -L/home/fran/CLionProjects/projeto-3-francin-guilherme-1/libs -lprglib 

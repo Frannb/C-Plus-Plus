@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/PROJ4.dir/Verbete.cpp.o  -o PROJ4 

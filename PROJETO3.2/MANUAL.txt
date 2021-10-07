@@ -1,0 +1,16 @@
+
+		-- Manual de Usuário --
+
+1. Produto
+O que é o Geo-Localizador?
+O Geo-Localizador serve para localizar qualquer IP, onde 
+a identificação geográfica será representada por cada País de origem
+e seu respectivo continente.
+
+2. Modo de uso
+Para utilizar o Geo-Localizador é simples. Basta iniciar o programa, 
+e o mesmo solicitará que o usuário digite um determinado IP. 
+Para que o programa funciona, este IP deve ser digitado com 
+seguinte formato: número.número.número.número (ex: 10.0.0.1). 
+Após isto, o programa irá mostrar a localização deste IP digitado. 
+
